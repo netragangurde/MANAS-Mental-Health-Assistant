@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Demo Therapist A",
+    "experience": "Demo profile",
+    "clients_helped": "Demo data only",
+    "job_description": "Fictional example profile for testing the MANAS interface. Not a real clinician.",
+    "mbti_type": "INFJ - Demo style"
+  },
+  {
+    "name": "Demo Therapist B",
+    "experience": "Demo profile",
+    "clients_helped": "Demo data only",
+    "job_description": "Fictional example profile for testing profile selection and conversation personalization. Not a real clinician.",
+    "mbti_type": "INTJ - Demo style"
+  },
+  {
+    "name": "Demo Therapist C",
+    "experience": "Demo profile",
+    "clients_helped": "Demo data only",
+    "job_description": "Fictional example profile for UI and functional testing only. Not a real clinician.",
+    "mbti_type": "ENFJ - Demo style"
+  }
+]

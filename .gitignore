@@ -1,0 +1,27 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# VS Code/editor state
+.vscode/
+
+# Local runtime data (may contain personal or sensitive data)
+data.json
+therapists.json
+*.log
+
+# Temporary/backup source files
+patient_backup.py
+patient_old.py
+patient_slow.py
+patient_fast.py
+patient_timeout_fix.py
+patient_gemini_all.py
+patient_fast*.py
